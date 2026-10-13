@@ -1,0 +1,74 @@
+[
+  {
+    "segment": "Champions",
+    "customers": 250,
+    "customer_share_pct": 21.24,
+    "total_revenue": 1049964.29,
+    "revenue_share_pct": 51.39,
+    "avg_recency_days": 12.3,
+    "avg_orders": 15.5
+  },
+  {
+    "segment": "Loyal Customers",
+    "customers": 217,
+    "customer_share_pct": 18.44,
+    "total_revenue": 381937.56,
+    "revenue_share_pct": 18.69,
+    "avg_recency_days": 37.1,
+    "avg_orders": 6.3
+  },
+  {
+    "segment": "At Risk (High Value)",
+    "customers": 119,
+    "customer_share_pct": 10.11,
+    "total_revenue": 213175.97,
+    "revenue_share_pct": 10.43,
+    "avg_recency_days": 111.1,
+    "avg_orders": 6.1
+  },
+  {
+    "segment": "Potential Loyalists",
+    "customers": 161,
+    "customer_share_pct": 13.68,
+    "total_revenue": 140135.44,
+    "revenue_share_pct": 6.86,
+    "avg_recency_days": 30.9,
+    "avg_orders": 3.8
+  },
+  {
+    "segment": "Hibernating Big Spenders",
+    "customers": 81,
+    "customer_share_pct": 6.88,
+    "total_revenue": 114528.62,
+    "revenue_share_pct": 5.61,
+    "avg_recency_days": 137.1,
+    "avg_orders": 3.3
+  },
+  {
+    "segment": "Promising",
+    "customers": 176,
+    "customer_share_pct": 14.95,
+    "total_revenue": 79074.88,
+    "revenue_share_pct": 3.87,
+    "avg_recency_days": 77.6,
+    "avg_orders": 3.1
+  },
+  {
+    "segment": "Lost Customers",
+    "customers": 157,
+    "customer_share_pct": 13.34,
+    "total_revenue": 60036.49,
+    "revenue_share_pct": 2.94,
+    "avg_recency_days": 218.8,
+    "avg_orders": 2.1
+  },
+  {
+    "segment": "Recent New Customers",
+    "customers": 16,
+    "customer_share_pct": 1.36,
+    "total_revenue": 4298.94,
+    "revenue_share_pct": 0.21,
+    "avg_recency_days": 16.1,
+    "avg_orders": 1.5
+  }
+]
